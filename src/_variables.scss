@@ -1,0 +1,31 @@
+// COLORS
+$grayishBlue: hsl(237, 18%, 59%);
+$softRed: hsl(345, 95%, 68%);
+$white: hsl(0, 0%, 100%);
+$darkBlue: hsl(236, 21%, 26%);
+$veryDarkBlue: hsl(235, 16%, 14%);
+$blackBlue: hsl(234, 17%, 12%);
+$hillsBackground: #30243a;
+$linkBlue: hsl(228, 45%, 44%);
+$black: #222;
+// FONT
+$fontFamily: "Red Hat Display";
+$fontSize: 9px;
+$fontSizeDesktop: 14px;
+
+// IMAGES
+$hills: "./assets/images/pattern-hills.svg";
+$stars: "./assets/images/bg-stars.svg";
+$iconFacebook: "^./assets/images/icon-facebook.svg";
+$iconInstagram: "^./assets/images/icon-instagram.svg";
+$iconPinterest: "^./assets/images/icon-pinterest.svg";
+
+// OTHERS
+$defaultPadding: 8px;
+$mobileBreakpoint: 376px;
+$mainContentMaxWidth: 1440px;
+
+// TIMER BOX
+$timeBorderRadius: 0.7rem;
+$timerFontSize: 4rem;
+$timerWidth: 7rem;
