@@ -169,8 +169,6 @@
       mask-position: center;
       cursor: pointer;
       background-color: $grayishBlue;
-      // -webkit-mask: url(logo.svg) no-repeat center;
-      // mask: url(logo.svg) no-repeat center;
 
       &.facebook {
         mask-image: url($iconFacebook);
