@@ -4,14 +4,19 @@
 
 ## DEMO PAGE!
 [Demo DEFAULT](https://cesar-garay.github.io/frontendmentor-launch-countdown-ng/demoPage)
+
 [Demo 3 days](https://cesar-garay.github.io/frontendmentor-launch-countdown-ng/demoPage?dasyToLaunch=3)
+
 [Demo 2 days and 3 hours](https://cesar-garay.github.io/frontendmentor-launch-countdown-ng/demoPage?daysToLaunch=3&hoursToLaunch=3)
+
 [Demo 1 day, 0 hours and 15 minutes ](https://cesar-garay.github.io/frontendmentor-launch-countdown-ng/demoPage?daysToLaunch=1&hoursToLaunch=0&minutesToLaunch=15)
 
 The demo page accept 3 parameters to see how it wors
 
 `daysToLaunch` accept from 0 to 30, by default is 1.
+
 `hoursToLaunch` accept from 0 to 24, by default is 10.
+
 `minutesToLaunch` accept from 0 to 60, by default is 2.
 ## Welcome! 👋
 
